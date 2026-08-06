@@ -39,6 +39,16 @@
 - 🧩 Recent projects: an employee management system, a farming assistant, a carbon monitor
 - ⚡ I like problems where the hard part is the logic, not the framework
 
+## 🌟 Currently
+
+<!-- Written from what's actually in your repos. Update it as the
+     work moves on — a stale "currently" is worse than none. -->
+
+- 🔨 **Building** — [Carbon-Monitor](https://github.com/r0han02/Carbon-Monitor), a carbon-emission tracker where the interesting part is the database: a normalized MySQL schema with triggers, views, stored procedures and transaction handling
+- 🔐 **Learning** — API security in practice. JWT flows, bcrypt hashing, rate limiting and request validation, worked out end-to-end in [Personal-finance-app](https://github.com/r0han02/Personal-finance-app)
+- 🤖 **Exploring** — LLM-backed tooling, using the Gemini API to drive difficulty adaptation in [adaptive-learning-agent](https://github.com/r0han02/adaptive-learning-agent)
+- 📬 **Open to** — backend and full-stack roles or internships
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -64,9 +74,19 @@
 
 </div>
 
-> These cards pull each repo's **description** live from GitHub. They'll read
-> "No description provided" until you set descriptions — see the note at the
-> bottom of this file for a one-command fix.
+<!-- NOTE TO SELF: these cards pull each repo's description live
+     from GitHub, so they read "No description provided" until you
+     set descriptions. See the REPO DESCRIPTIONS block at the
+     bottom of this file for the one-command fix. -->
+
+| Project | Stack |
+|---|---|
+| [Carbon-Monitor](https://github.com/r0han02/Carbon-Monitor) | React · React Router · Vite · FastAPI · MySQL · JWT |
+| [Personal-finance-app](https://github.com/r0han02/Personal-finance-app) | Node.js · Express · JWT · bcrypt · helmet · rate-limit |
+| [adaptive-learning-agent](https://github.com/r0han02/adaptive-learning-agent) | Python · FastAPI · uvicorn · Google Gemini |
+| [Readify](https://github.com/r0han02/Readify) | Chrome Extension (MV3) · JavaScript · Speech Synthesis API |
+| [Farming-Assistant](https://github.com/r0han02/Farming-Assistant-Java-Project-main) | Java · NetBeans · Apache Ant |
+| [Budget-App](https://github.com/r0han02/Budget-App) | JavaScript · SCSS |
 
 ## 🛠 Tech Stack
 
@@ -136,12 +156,6 @@
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=r0han02&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&border_color=1F2937" alt="Top languages" />
-</div>
-
-## 📈 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r0han02&bg_color=0D1117&color=00F7FF&line=A855F7&point=FFFFFF&area=true&hide_border=false&custom_title=Contribution%20Graph" alt="Activity graph" />
 </div>
 
 ## 🏆 Trophies
