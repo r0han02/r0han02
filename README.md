@@ -15,39 +15,29 @@
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════
-     EDIT: replace the four href="#" values below with your real
-     links, then delete this comment. Drop any row you don't use.
-     ═══════════════════════════════════════════════════════════ -->
+     SOCIAL LINKS — uncomment the block below once you have real
+     URLs to put in it, and delete any row you don't use. Left
+     commented out on purpose: badges pointing at "#" look
+     broken, and a missing row looks deliberate.
+     ═══════════════════════════════════════════════════════════
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:#"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=flat-square&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:YOUR@EMAIL.COM"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://YOUR-SITE.COM"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=flat-square&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
 </div>
-
-<br />
+     ═══════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /> About Me
 
-<!-- EDIT: this is placeholder copy — rewrite every line in your own words -->
+<!-- These four lines are drawn from your public repos. Rewrite
+     them in your own voice whenever you like — they're accurate,
+     but they're my words, not yours. -->
 
 - 🔭 Currently building **desktop and web apps** in Java and vanilla JavaScript
 - 🌱 Working my way deeper into **backend architecture and databases**
 - 🧩 Recent projects: an employee management system, a farming assistant, a carbon monitor
 - ⚡ I like problems where the hard part is the logic, not the framework
-
-<details>
-  <summary><b>More about me</b></summary>
-
-  <br />
-
-  <!-- EDIT: longer bio goes here. A few sentences on what you're into,
-       what you're working toward, and what you'd like to be contacted about. -->
-
-  Write a paragraph here about how you got into building things, what you're
-  working toward next, and what kind of collaboration or roles you're open to.
-
-</details>
 
 ## 🛠 Tech Stack
 
