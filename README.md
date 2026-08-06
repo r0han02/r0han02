@@ -39,37 +39,80 @@
 - 🧩 Recent projects: an employee management system, a farming assistant, a carbon monitor
 - ⚡ I like problems where the hard part is the logic, not the framework
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/r0han02/Carbon-Monitor">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=r0han02&repo=Carbon-Monitor&show_owner=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=A855F7&border_color=1F2937" alt="Carbon-Monitor" />
+</a>
+<a href="https://github.com/r0han02/Personal-finance-app">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=r0han02&repo=Personal-finance-app&show_owner=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=A855F7&border_color=1F2937" alt="Personal-finance-app" />
+</a>
+<a href="https://github.com/r0han02/adaptive-learning-agent">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=r0han02&repo=adaptive-learning-agent&show_owner=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=A855F7&border_color=1F2937" alt="adaptive-learning-agent" />
+</a>
+<a href="https://github.com/r0han02/Readify">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=r0han02&repo=Readify&show_owner=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=A855F7&border_color=1F2937" alt="Readify" />
+</a>
+<a href="https://github.com/r0han02/Farming-Assistant-Java-Project-main">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=r0han02&repo=Farming-Assistant-Java-Project-main&show_owner=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=A855F7&border_color=1F2937" alt="Farming-Assistant" />
+</a>
+<a href="https://github.com/r0han02/Budget-App">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=r0han02&repo=Budget-App&show_owner=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=A855F7&border_color=1F2937" alt="Budget-App" />
+</a>
+
+</div>
+
+> These cards pull each repo's **description** live from GitHub. They'll read
+> "No description provided" until you set descriptions — see the note at the
+> bottom of this file for a one-command fix.
+
 ## 🛠 Tech Stack
 
 <div align="center">
+
+<!-- Every badge below is backed by a public repo — see the
+     Featured Projects section. If you add one, make sure there's
+     code behind it; an unbacked badge is the thing recruiters
+     notice. -->
 
 **Languages**
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+
+**Backend**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
+
+**Data & AI**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
 
 **Tools**
 
-<img src="https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat-square&logo=apacheant&logoColor=white" alt="Apache Ant" />
-<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" alt="NetBeans" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" alt="NetBeans" />
+<img src="https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat-square&logo=apacheant&logoColor=white" alt="Apache Ant" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-
-<!-- ═══════════════════════════════════════════════════════════
-     Spare badges — uncomment any you actually use (including in
-     private repos). Don't add a badge for something you haven't
-     shipped with; an empty flex is the tell.
-     ═══════════════════════════════════════════════════════════
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
--->
 
 </div>
 
@@ -151,6 +194,34 @@
        Same process with  github.com/ryo-ma/github-profile-trophy
        (no PAT needed), then replace
             github-profile-trophy-psi.vercel.app
+
+     ───────────────────────────────────────────────────────────
+     REPO DESCRIPTIONS
+
+     All 14 repos currently have an empty description and no
+     topics, which is why the Pinned cards on the profile show
+     nothing but a name and a language dot. Descriptions are repo
+     metadata, not README content — they can only be set through
+     the GitHub UI or API.
+
+     Fastest fix: each repo page → gear icon next to "About" →
+     fill Description + Topics. Two minutes each.
+
+     Or run the script that was generated alongside this README
+     (set-repo-descriptions.ps1) to do all 14 at once with a
+     short-lived "repo"-scoped token.
+
+     Also worth doing in the GitHub UI:
+       • Rename "Farming-Assistant-Java-Project-main" to
+         "Farming-Assistant" — the "-main" suffix is leftover
+         from a downloaded zip and it shows.
+       • Rename "-Calculator" — a leading hyphen sorts oddly and
+         reads like a typo.
+       • Re-pin: Carbon-Monitor and adaptive-learning-agent are
+         your two strongest projects and neither is pinned.
+       (Renaming changes the repo URL, so update the matching
+        Featured Projects card above afterwards.)
+     ───────────────────────────────────────────────────────────
 
      Everything else here — capsule-render, shields.io,
      readme-typing-svg, streak-stats.demolab.com, the activity
