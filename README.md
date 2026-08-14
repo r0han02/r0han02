@@ -54,22 +54,22 @@
 <div align="center">
 
 <a href="https://github.com/r0han02/Carbon-Monitor">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=r0han02&repo=Carbon-Monitor&show_owner=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=A855F7&border_color=1F2937" alt="Carbon-Monitor" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=r0han02&repo=Carbon-Monitor&show_owner=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=A855F7&border_color=1F2937" alt="Carbon-Monitor" />
 </a>
 <a href="https://github.com/r0han02/Personal-finance-app">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=r0han02&repo=Personal-finance-app&show_owner=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=A855F7&border_color=1F2937" alt="Personal-finance-app" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=r0han02&repo=Personal-finance-app&show_owner=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=A855F7&border_color=1F2937" alt="Personal-finance-app" />
 </a>
 <a href="https://github.com/r0han02/adaptive-learning-agent">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=r0han02&repo=adaptive-learning-agent&show_owner=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=A855F7&border_color=1F2937" alt="adaptive-learning-agent" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=r0han02&repo=adaptive-learning-agent&show_owner=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=A855F7&border_color=1F2937" alt="adaptive-learning-agent" />
 </a>
 <a href="https://github.com/r0han02/Readify">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=r0han02&repo=Readify&show_owner=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=A855F7&border_color=1F2937" alt="Readify" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=r0han02&repo=Readify&show_owner=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=A855F7&border_color=1F2937" alt="Readify" />
 </a>
 <a href="https://github.com/r0han02/Farming-Assistant-Java-Project-main">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=r0han02&repo=Farming-Assistant-Java-Project-main&show_owner=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=A855F7&border_color=1F2937" alt="Farming-Assistant" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=r0han02&repo=Farming-Assistant-Java-Project-main&show_owner=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=A855F7&border_color=1F2937" alt="Farming-Assistant" />
 </a>
 <a href="https://github.com/r0han02/Budget-App">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=r0han02&repo=Budget-App&show_owner=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=A855F7&border_color=1F2937" alt="Budget-App" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=r0han02&repo=Budget-App&show_owner=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&icon_color=A855F7&border_color=1F2937" alt="Budget-App" />
 </a>
 
 </div>
@@ -139,23 +139,28 @@
 ## 📊 GitHub Stats
 
 <!-- ═══════════════════════════════════════════════════════════
-     HOST NOTE (verified 2026-08-06)
+     HOST NOTE (re-verified 2026-08-14)
      The official github-readme-stats.vercel.app instance is
-     returning 503 DEPLOYMENT_PAUSED — the maintainer's free-tier
-     Vercel deployment is over quota. The two cards below use a
-     community mirror that is currently serving real data.
-     Mirrors can disappear the same way. For a host that can
-     never break on you, self-host in 5 minutes — see the
-     "Self-hosting the stats cards" section at the bottom of
-     this file, then swap the two hostnames below.
+     still 503 DEPLOYMENT_PAUSED. The previous mirror
+     (…-sigma-five…) has since run out of GitHub API quota and
+     now renders "Maximum retries exceeded / add PAT_1" error
+     cards — that is a mirror-side problem, nothing in this file
+     causes it. Swapped to …-eight-theta…, verified serving real
+     data today. Known-good backups if this one dies the same
+     way: github-readme-stats-one-taupe.vercel.app and
+     github-readme-stats-salesp07.vercel.app — a one-line
+     find-and-replace across this file.
+     This will keep happening on any shared mirror. The
+     permanent fix is self-hosting with your own PAT — see the
+     "Self-hosting the stats cards" section at the bottom.
      ═══════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=r0han02&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false&bg_color=0D1117&title_color=00F7FF&icon_color=A855F7&text_color=C9D1D9&border_color=1F2937" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=r0han02&background=0D1117&border=1F2937&stroke=1F2937&ring=00F7FF&fire=A855F7&currStreakNum=FFFFFF&currStreakLabel=00F7FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=r0han02&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false&bg_color=0D1117&title_color=00F7FF&icon_color=A855F7&text_color=C9D1D9&border_color=1F2937" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=r0han02&background=0D1117&border=1F2937&stroke=1F2937&ring=00F7FF&fire=A855F7&currStreakNum=FFFFFF&currStreakLabel=00F7FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&mode=daily" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=r0han02&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&border_color=1F2937" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=r0han02&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9&border_color=1F2937" alt="Top languages" />
 </div>
 
 ## 🏆 Trophies
@@ -201,7 +206,7 @@
        4. In Vercel → Project → Settings → Environment Variables,
           add  PAT_1 = <your token>  → redeploy
        5. Replace both occurrences of
-            github-readme-stats-sigma-five.vercel.app
+            github-readme-stats-eight-theta.vercel.app
           above with your own <project>.vercel.app hostname
 
      Trophy card:
