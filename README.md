@@ -139,7 +139,7 @@
 ## 📊 GitHub Stats
 
 <!-- ═══════════════════════════════════════════════════════════
-     HOST NOTE (re-verified 2026-08-14)
+     HOST NOTE (re-verified 2026-09-11)
      The official github-readme-stats.vercel.app instance is
      still 503 DEPLOYMENT_PAUSED. The previous mirror
      (…-sigma-five…) has since run out of GitHub API quota and
@@ -150,13 +150,24 @@
      way: github-readme-stats-one-taupe.vercel.app and
      github-readme-stats-salesp07.vercel.app — a one-line
      find-and-replace across this file.
+
+     Streak card: streak-stats.demolab.com went the same way. It
+     now answers 200 OK with a "Failed to retrieve contributions"
+     sad-face card, so it does NOT show as a broken image — and
+     error cards ignore the color params, so it rendered white
+     next to the dark stats card. Swapped to
+     github-readme-streak-stats-salesp07.vercel.app, verified
+     today serving real data (84 contributions, longest streak 3)
+     and honouring the dark palette. Backups that also tested
+     good: github-readme-streak-stats-one.vercel.app and
+     github-readme-streak-stats-phi.vercel.app.
      This will keep happening on any shared mirror. The
      permanent fix is self-hosting with your own PAT — see the
      "Self-hosting the stats cards" section at the bottom.
      ═══════════════════════════════════════════════════════════ -->
 <div align="center">
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=r0han02&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false&bg_color=0D1117&title_color=00F7FF&icon_color=A855F7&text_color=C9D1D9&border_color=1F2937" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=r0han02&background=0D1117&border=1F2937&stroke=1F2937&ring=00F7FF&fire=A855F7&currStreakNum=FFFFFF&currStreakLabel=00F7FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&mode=daily" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=r0han02&background=0D1117&border=1F2937&stroke=1F2937&ring=00F7FF&fire=A855F7&currStreakNum=FFFFFF&currStreakLabel=00F7FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&mode=daily" alt="GitHub streak" />
 </div>
 
 <div align="center">
@@ -165,11 +176,16 @@
 
 ## 🏆 Trophies
 
-<!-- HOST NOTE: github-profile-trophy.vercel.app returns
-     402 DEPLOYMENT_DISABLED (maintainer's deployment is over
-     quota). Using a working community mirror instead. -->
+<!-- HOST NOTE (re-verified 2026-09-11): the official
+     github-profile-trophy.vercel.app still returns 402
+     DEPLOYMENT_DISABLED (maintainer over quota), and the mirror
+     used here before (…-psi…) has since started returning 500.
+     Swapped to …-eight…, verified today. Backup that also
+     tested good: github-trophies.vercel.app (older fork — it
+     adds MultiLanguage/LongTimeUser trophies the upstream set
+     doesn't have). -->
 <div align="center">
-  <img src="https://github-profile-trophy-psi.vercel.app/?username=r0han02&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="Trophies" />
+  <img src="https://github-profile-trophy-eight.vercel.app/?username=r0han02&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="Trophies" />
 </div>
 
 ## 🐍 Contribution Snake
@@ -209,10 +225,17 @@
             github-readme-stats-eight-theta.vercel.app
           above with your own <project>.vercel.app hostname
 
+     Streak card:
+       Same process with
+       github.com/DenverCoder1/github-readme-streak-stats
+       (needs a PAT, same no-scope classic token works), then
+       replace
+            github-readme-streak-stats-salesp07.vercel.app
+
      Trophy card:
        Same process with  github.com/ryo-ma/github-profile-trophy
        (no PAT needed), then replace
-            github-profile-trophy-psi.vercel.app
+            github-profile-trophy-eight.vercel.app
 
      ───────────────────────────────────────────────────────────
      REPO DESCRIPTIONS
@@ -243,7 +266,8 @@
      ───────────────────────────────────────────────────────────
 
      Everything else here — capsule-render, shields.io,
-     readme-typing-svg, streak-stats.demolab.com, the activity
-     graph, and the snake — runs on hosts that were returning 200
-     at build time and need no action.
+     readme-typing-svg, komarev profile views, and the snake —
+     was swept on 2026-09-11 and every one returned 200 with real
+     content. The snake at raw.githubusercontent.com is live too,
+     so the Generate Snake workflow has run at least once.
      ═══════════════════════════════════════════════════════════ -->
